@@ -1,0 +1,13 @@
+{
+  "name": "tollo-follow-backend",
+  "version": "1.0.0",
+  "description": "Tollo Follow — backend API (zero external dependencies)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "license": "ISC"
+}
